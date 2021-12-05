@@ -1,3 +1,5 @@
 Esta es una prueba para ver los cambios que se hacen en este archivo
 
 ahora añado esta segunda linea por si acaso
+
+viviendo el sueño de aprender git de nuevo, fatal
